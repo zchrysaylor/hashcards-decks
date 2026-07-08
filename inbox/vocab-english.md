@@ -3,37 +3,39 @@ name = "English Vocabulary"
 ---
 
 Q: conspicuous
-A:
+A: obvious to the eye or mind; attracting attention; marked by a noticeable violation of good taste
 
 ---
 
-Q: commendation
-A:
+Q: commend
+A: to entrust for care or preservation; to recommend as worthy of confidence or notice
 
 ---
 
 Q: inveterate
-A:
+A: confirmed in a habit; firmly established by long persistence
 
 ---
 
 Q: vocative
-A:
+A: (of a word or word group) marking the one addressed
+
+Example: such as mother in "mother, come here"
 
 ---
 
 Q: spurious
-A:
+A: outwardly similar or corresponding to something without having its genuine qualities; of falsified or erroneously attributed origin
 
 ---
 
-Q: dipsomaniac
-A:
+Q: dipsomania
+A: an uncontrollable craving for alcoholic liquors
 
 ---
 
 Q: aboulia
-A:
+A: abnormal lack of ability to act or to make decisions that is characteristic of certain psychotic and neurotic conditions
 
 ---
 
@@ -43,47 +45,21 @@ A: that cannot be removed, washed away, or erased; lasting; unforgettable; memor
 ---
 
 Q: exigency
-A:
-
-1. that which is required in a particular situation -> usually used in plural
-2. a state of affairs that makes urgent demands
+A: that which is required in a particular situation -> usually used in plural; a state of affairs that makes urgent demands
 
 ---
 
 Q: phylogeny
-A:
-
-1. the evolutionary history of a kind of organism
-2. the evolution of a genetically related group of organisms as distinguished from the development of the individual organism
-3. the history or course of the development of something (such as a word or custom)
+A: the evolutionary history of a kind of organism; the history or course of the development of something (such as a word or custom)
 
 ---
 
-Q: phylogenetic
-A:
-
-1. of or relating to phylogeny
-2. based on natural evolutionary relationships
-3. acquired in the course of phylogenetic development
-
----
-
-Q: ontogenetic
-A:
-
-1. of, relating to, or appearing in the course of ontogeny
-2. based on visible morphological characters
+Q: ontogeny
+A: the development or course of development especially of an individual organism
 
 ---
 
 Q: morphology
-A:
-
-1a. a branch of biology that deals with the form and structure of animals and plants
-1b. the form and structure of an organism or any of its parts
-2a. a study and description of word formation (such as inflection, derivation, and compounding) in language
-2b. the system of word-forming elements and processes in a language
-3. a study of structure or form
-4. the external structure of rocks in relation to the development of erosional forms or topographic features
+A: a study of structure or form
 
 ---
