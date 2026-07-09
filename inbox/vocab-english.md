@@ -63,3 +63,44 @@ Q: morphology
 A: a study of structure or form
 
 ---
+
+Q: cicerone
+A: a guide who conducts sightseers
+
+---
+
+Q: prodigious
+A: causing amazement or wonder; extraordinary in bulk, quantity, or degree
+
+---
+
+Q: palimpsest
+A: writing material (such as a parchment or tablet) used one or more times after earlier writing has been erased; something having usually diverse layers or aspects apparent beneath the surface
+
+---
+
+Q: indolent
+A: averse to activity, effort, or movement; habitually lazy; causing little or no pain; slow to develop or heal
+
+---
+
+Q: timorous
+A: of a timid disposition
+
+---
+
+
+Q: magnanimity
+A: loftiness of spirit enabling one to bear trouble calmly, to disdain meanness and pettiness, and to display a noble generosity
+
+---
+
+Q: furtive
+A: done in a quiet and secretive way to avoid being noticed; obtained underhandedly (stolen)
+
+---
+
+Q: perdition
+A: eternal damnation; utter destruction
+
+---
