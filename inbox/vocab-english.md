@@ -104,3 +104,23 @@ Q: perdition
 A: eternal damnation; utter destruction
 
 ---
+
+Q: spasmodic
+A: acting or proceeding fitfully; subject to outbursts of emotional excitement
+
+---
+
+Q: blench
+A: to draw back or turn aside from lack of courage (flinch)
+
+---
+
+Q: maunder
+A: to wander slowly and idly; to speak indistinctly or disconnectedly (grumble)
+
+---
+
+Q: carouse
+A: to drink liquor freely or excessively
+
+---
