@@ -134,3 +134,13 @@ Q: sylvan (A)
 A: living or located in the woods or forest; made, shaped, or formed of woods or trees
 
 ---
+
+Q: concupiscent
+A: a feeling of intense, powerful desire or yearning, typically with strong sensual or lustful overtones
+
+---
+
+Q: irascible
+A: marked by hot temper and easily provoked anger
+
+---
