@@ -124,3 +124,13 @@ Q: carouse
 A: to drink liquor freely or excessively
 
 ---
+
+Q: sylvan (N)
+A: one that frequents groves or woods
+
+---
+
+Q: sylvan (A)
+A: living or located in the woods or forest; made, shaped, or formed of woods or trees
+
+---
