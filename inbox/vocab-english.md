@@ -144,3 +144,63 @@ Q: irascible
 A: marked by hot temper and easily provoked anger
 
 ---
+
+Q: objurgate
+A: to decry vehemently; to castigate with harsh or violent language
+
+---
+
+Q: rheumatism
+A: any of various conditions characterized by inflammation or pain in muscles, joints, or fibrous tissue
+
+---
+
+Q: hoary
+A: no longer humorous, interesting, or meaningful due to repetition over time; extremely old; gray or white with or as if with age
+
+---
+
+Q: expedient
+A: suitable for achieving a particular end in a given circumstance; characterized by concern with what is opportune; governed by self-interest
+
+---
+
+Q: colporteur
+A: a peddler of religious books
+
+---
+
+Q: rapacious
+A: excessively grasping or covetous; living on prey (ravenous)
+
+---
+
+Q: blandishment
+A: something that tends to coax or cajole (allurement) —> often used in plural
+
+---
+
+Q: varlet
+A: attendant; a knight's page; a base unprincipled person
+
+---
+
+Q: hellion
+A: a troublesome or mischievous person
+
+---
+
+Q: cicatrix
+A: a scar resulting from formation and contraction of fibrous tissue in a wound; a mark resembling a scar especially when caused by the previous attachment of an organ or part (such as a leaf)
+
+---
+
+Q: lithe
+A: easily bent or flexed; characterized by easy flexibility and grace; athletically slim
+
+---
+
+Q: votive
+A: consisting of or expressing a vow, wish, or desire; offered or performed in fulfillment of a vow or in gratitude or devotion; a short thick candle used especially as a prayer offering or for decoration
+
+---
