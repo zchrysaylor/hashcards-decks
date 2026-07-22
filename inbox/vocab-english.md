@@ -204,3 +204,8 @@ Q: votive
 A: consisting of or expressing a vow, wish, or desire; offered or performed in fulfillment of a vow or in gratitude or devotion; a short thick candle used especially as a prayer offering or for decoration
 
 ---
+
+Q: querulous
+A: habitually complaining
+
+---
