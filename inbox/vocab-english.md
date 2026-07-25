@@ -3,209 +3,300 @@ name = "English Vocabulary"
 ---
 
 Q: conspicuous
-A: obvious to the eye or mind; attracting attention; marked by a noticeable violation of good taste
-
----
-
-Q: commend
-A: to entrust for care or preservation; to recommend as worthy of confidence or notice
+A: clearly visible, easy to be seen, obvious or striking to the eye; designating expenditure on or consumption of luxuries on a lavish scale in an attempt to enhance one's prestige (frequently in "conspicuous consumption")
 
 ---
 
 Q: inveterate
-A: confirmed in a habit; firmly established by long persistence
+A: that has existed or continued for a long time; of old standing; aged
 
 ---
 
 Q: vocative
-A: (of a word or word group) marking the one addressed
-
-Example: such as mother in "mother, come here"
+A: a word or phrase being used as a form of address
 
 ---
 
 Q: spurious
-A: outwardly similar or corresponding to something without having its genuine qualities; of falsified or erroneously attributed origin
+A: having an illegitimate or irregular origin; superficially resembling or simulating, but lacking the genuine character or qualities of, something
 
 ---
 
 Q: dipsomania
-A: an uncontrollable craving for alcoholic liquors
+A: a morbid and insatiable craving for alcohol, often of a paroxysmal character; also applied to persistent drunkenness, and formerly to the delirium produced by excessive drinking
+
+---
+
+Q: paroxysm
+A: a sudden recurrence or attack, e.g. of coughing; a sudden worsening of symptoms; an outburst of violent controversy; an open quarrel or schism
 
 ---
 
 Q: aboulia
-A: abnormal lack of ability to act or to make decisions that is characteristic of certain psychotic and neurotic conditions
+A: loss or impairment of the ability to act, make decisions, or initiate physical or mental activity, as a symptom of mental illness or injury to the brain; (gen.) absence of will power, indecisiveness; an instance of this.
 
 ---
 
 Q: indelible
-A: that cannot be removed, washed away, or erased; lasting; unforgettable; memorable
+A: that cannot be deleted, blotted out, or effaced; ineffaceable, permanent
 
 ---
 
 Q: exigency
-A: that which is required in a particular situation -> usually used in plural; a state of affairs that makes urgent demands
+A: what is needed or required; a thing wanted or demanded
 
 ---
 
 Q: phylogeny
-A: the evolutionary history of a kind of organism; the history or course of the development of something (such as a word or custom)
+A: the pattern of historical relationships between species or other groups resulting from divergence during evolution
 
 ---
 
 Q: ontogeny
-A: the development or course of development especially of an individual organism
+A: the origin and development of the individual organism
 
 ---
 
 Q: morphology
-A: a study of structure or form
+A: the branch of biology that deals with the form of living organisms and their parts, and the relationships between their structures; the structure, form, or variation in form of a word or words in a language
 
 ---
 
 Q: cicerone
-A: a guide who conducts sightseers
+A: a guide who shows and explains the antiquities or curiosities of a place to strangers
 
 ---
 
 Q: prodigious
-A: causing amazement or wonder; extraordinary in bulk, quantity, or degree
+A: of the nature of an omen (portentous); that causes wonder or amazement; marvellous, astonishing
 
 ---
 
 Q: palimpsest
-A: writing material (such as a parchment or tablet) used one or more times after earlier writing has been erased; something having usually diverse layers or aspects apparent beneath the surface
+A: a manuscript in which later writing has been superimposed on earlier (effaced) writing
 
 ---
 
 Q: indolent
-A: averse to activity, effort, or movement; habitually lazy; causing little or no pain; slow to develop or heal
+A: averse to toil or exertion; slothful, lazy, idle; (of pain) slow to heal, persistent
 
 ---
 
 Q: timorous
-A: of a timid disposition
+A: full of or affected by fear (either for the time or habitually)
 
 ---
 
 
 Q: magnanimity
-A: loftiness of spirit enabling one to bear trouble calmly, to disdain meanness and pettiness, and to display a noble generosity
+A: nobility or generosity of spirit; superiority to petty resentment or jealousy; noble or generous disregard of insults or injuries
 
 ---
 
 Q: furtive
-A: done in a quiet and secretive way to avoid being noticed; obtained underhandedly (stolen)
+A: done by stealth or with the hope of escaping observation; clandestine, surreptitious, secret, unperceived
 
 ---
 
 Q: perdition
-A: eternal damnation; utter destruction
+A: the fact or condition of being destroyed or ruined; utter destruction, complete ruin; the consignment of the unredeemed or wicked and impenitent soul to hell
 
 ---
 
 Q: spasmodic
-A: acting or proceeding fitfully; subject to outbursts of emotional excitement
+A: marked by jerkiness or suddenness of muscular movement; convulsively furious or violent
 
 ---
 
 Q: blench
-A: to draw back or turn aside from lack of courage (flinch)
+A: to start or shy away suddenly; to flinch or shrink as from fear, dislike, etc.
 
 ---
 
 Q: maunder
-A: to wander slowly and idly; to speak indistinctly or disconnectedly (grumble)
+A: to grumble, mutter, moan
 
 ---
 
 Q: carouse
-A: to drink liquor freely or excessively
+A: to drink alcohol, esp. in large amounts; to drink heavily or excessively
 
 ---
 
-Q: sylvan (N)
-A: one that frequents groves or woods
-
----
-
-Q: sylvan (A)
-A: living or located in the woods or forest; made, shaped, or formed of woods or trees
+Q: sylvan
+A: one who (or something that) inhabits a wood or forest; a being of the woods
 
 ---
 
 Q: concupiscent
-A: a feeling of intense, powerful desire or yearning, typically with strong sensual or lustful overtones
+A: eagerly desirous; lustful
 
 ---
 
 Q: irascible
-A: marked by hot temper and easily provoked anger
+A: easily provoked to anger or resentment; prone to anger; irritable, choleric, hot-tempered, passionate
 
 ---
 
 Q: objurgate
-A: to decry vehemently; to castigate with harsh or violent language
+A: to rebuke severely; to chide, scold; to remonstrate; to complain; to rail against
 
 ---
 
 Q: rheumatism
-A: any of various conditions characterized by inflammation or pain in muscles, joints, or fibrous tissue
+A: pain or stiffness in joints, muscles, or related components of the musculoskeletal system; an attack or instance of this
 
 ---
 
 Q: hoary
-A: no longer humorous, interesting, or meaningful due to repetition over time; extremely old; gray or white with or as if with age
+A: grey-bearded or white-haired with age; ancient; venerable from age, time-honoured
 
 ---
 
 Q: expedient
-A: suitable for achieving a particular end in a given circumstance; characterized by concern with what is opportune; governed by self-interest
+A: conducive to advantage in general, or to a definite purpose; fit, proper, or suitable to the circumstances of the case
 
 ---
 
 Q: colporteur
-A: a peddler of religious books
+A: a hawker of books, newspapers, etc. esp. one employed by a society to travel about and sell or distribute Bibles and religious writings
 
 ---
 
 Q: rapacious
-A: excessively grasping or covetous; living on prey (ravenous)
+A: inordinately given to grasping or taking; aggressively greedy; greedily desirous
 
 ---
 
 Q: blandishment
-A: something that tends to coax or cajole (allurement) —> often used in plural
+A: a statement or act that uses charm, flattery, etc., to entice, cajole, or influence —> often used in plural
 
 ---
 
 Q: varlet
-A: attendant; a knight's page; a base unprincipled person
+A: an attendant on a knight or other person of military importance; a dishonest, unscrupulous person; a scoundrel, a rogue
 
 ---
 
 Q: hellion
-A: a troublesome or mischievous person
+A: a rowdy, troublesome, or disreputable person; a mischievous child
 
 ---
 
 Q: cicatrix
-A: a scar resulting from formation and contraction of fibrous tissue in a wound; a mark resembling a scar especially when caused by the previous attachment of an organ or part (such as a leaf)
+A: the scar or seam remaining after a wound, sore, or ulcer is healed
 
 ---
 
 Q: lithe
-A: easily bent or flexed; characterized by easy flexibility and grace; athletically slim
+A: gentle, meek, mild; easily bent; flexible, limber, pliant, supple
 
 ---
 
 Q: votive
-A: consisting of or expressing a vow, wish, or desire; offered or performed in fulfillment of a vow or in gratitude or devotion; a short thick candle used especially as a prayer offering or for decoration
+A: a person who has made a religious vow or vows; a devotee or ardent admirer; a short thick candle used as a prayer offering or for decoration
 
 ---
 
 Q: querulous
-A: habitually complaining
+A: habitually complaining; fault-finding; peevish
 
 ---
+
+Q: beguile
+A: to deceive or mislead (someone)
+
+---
+
+Q: languish
+A: to decline in health; to weaken, wither, or become faint; to live in an oppressive or dispiriting place, situation, or condition
+
+---
+
+Q: roughshod
+A: domineering, bullying; rough, harsh
+
+---
+
+Q: balk
+A: to frustrate, foil, render unsuccessful; to meet arguments with objections; to quibble, chop logic, bandy words; to refuse (anything offered or that comes in course, e.g. food or drink)
+
+---
+
+Q: unlimbered
+A: to unhitch (a trailer, caravan, etc.); to ready (any gun or weapon) for action
+
+---
+
+Q: convalescent
+A: one who is recovering from sickness
+
+---
+
+Q: incorrigible
+A: not liable or open to correction; bad or depraved beyond correction or reform
+
+---
+
+Q: benison
+A: blessing, beatitude, benediction
+
+---
+
+Q: mulct
+A: to punish by a fine
+
+---
+
+Q: usufruct
+A: the right of temporary possession, use, or enjoyment of the advantages of property belonging to another
+
+---
+
+Q: promulgate
+A: to make known by public declaration; to publish; to proclaim
+
+---
+
+Q: emendation
+A: correction, reformation, improvement (of life, conduct, etc.)
+
+---
+
+Q: weal
+A: happiness, prosperity; welfare, (spiritual) well-being; often contrasted with woe: "their weal and woe"
+
+---
+
+Q: leman
+A: a person beloved by another; a sweetheart or lover
+
+---
+
+Q: peremptorily
+A: as a positive command; with an air of command; imperatively; imperiously
+
+---
+
+Q: scrofulous
+A: having an unkempt, unhealthy appearance; morally degenerate, corrupt
+
+---
+
+Q: lubberly
+A: clumsly and stupid; resembling a lubber; lacking in seamanship
+
+---
+
+Q: emprise
+A: an enterprise, endeavor, quest, or adventure; chivalric prowess
+
+---
+
+Q: sordid
+A: marked by baseness or grossness; vile; squalid; of a dull or muddy color
+
+---
+
+Q: vivify
+A: to endow with life or impart vitality

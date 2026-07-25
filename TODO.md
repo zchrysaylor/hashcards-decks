@@ -1,0 +1,5 @@
+- Create Lua script for checking duplicates
+    - include tests
+    - flag duplicates on startup (optionally prompt to delete)
+    - show diff viewer and button to keep one, the other, or both (in case user entered same word w/diff definition i.e. one noun another verb)
+- Create Lua or bash wrapper script
