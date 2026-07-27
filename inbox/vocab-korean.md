@@ -2,8 +2,8 @@
 name = "Korean Vocabulary"
 ---
 
-Q: 압도당해
-A:
+Q: 압도당하다
+A: to be overwhelmed; to be overpowered
 
 ---
 
