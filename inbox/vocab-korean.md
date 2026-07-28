@@ -1,74 +1,103 @@
+Korean dictionaries usually use the following abbreviations or labels:
+동사 — verb
+명사 — noun
+형용사 — adjective (descriptive verb)
+부사 — adverb
+대명사 — pronoun
+수사 — numeral
+관형사 — determiner
+감탄사 — interjection
+조사 — particle
+접속사 — conjunction (less common in Korean grammar than in English)
 ---
 name = "Korean Vocabulary"
 ---
 
-Q: 압도당하다
+Q: (동사) 압도당하다
 A: to be overwhelmed; to be overpowered
 
 ---
 
-Q: 낭만일세
-A:
+Q: 낭만일세 TODO: move this to phrases/sentence mining
+A: 
 
 ---
 
-Q: 외식
-A:
+Q: (명사) 외식
+A: eating out; meal in a restaurant
 
 ---
 
-Q: 다양하다
-A:
+Q: (형용사) 다양하다
+A: various; diverse
 
 ---
 
-Q: 마늘
-A:
+Q: (명사) 마늘
+A: garlic
 
 ---
 
-Q: 볶다
-A:
+Q: (동사) 볶다
+
+예문: 고기를 볶다.
+A: to stir-fry
 
 ---
 
-Q: 후식
-A:
+Q: (동사) 볶다
+
+예문: 아내가 남편을 볶다.
+A: to nag; to pester
 
 ---
 
-Q: 달콤하다
-A:
+Q: (동사) 볶다
+
+예문: 머리를 볶다.
+A: to get a perm (slang)
 
 ---
 
-Q: 야경
-A:
+Q: (명사) 후식
+A: dessert
 
 ---
 
-Q: 선약
-A:
+Q: (형용사) 달콤하다
+
+예문: 달콤한 과일/기분/노래.
+A: sweet, luscious; good feeling; comfortable/cozy
 
 ---
 
-Q: 취소하다
-A:
+Q: (명사) 야경
+A: night view; nightscape
 
 ---
 
-Q: 훌륭하다
-A:
+Q: (명사) 선약
+A: prior appointment
 
 ---
 
-Q: 비자
-A:
+Q: (동사) 취소하다
+A: to cancel
 
 ---
 
-Q: 발급
-A:
+Q: (형용사) 훌륭하다
+A: great; excellent; outstanding
+
+---
+
+Q: (명사) 비자
+A: visa
+
+---
+
+Q: (명사) 발급
+A: issue (the act of making and giving a certificate, etc., at an institution)
 
 ---
 
