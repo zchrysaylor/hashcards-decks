@@ -300,3 +300,35 @@ A: marked by baseness or grossness; vile; squalid; of a dull or muddy color
 
 Q: vivify
 A: to endow with life or impart vitality
+
+---
+
+Q: lummux
+A: a large, heavy, or clumsy person; an ungainly or stupid lout
+
+---
+
+Q: labrick
+A: a Missouri term meaning "a little stronger than ass, & not quite as strong as idiot."
+
+---
+
+Q: glibly
+A: fluently, with ready utterance
+
+---
+
+Q: gad
+A: to go from one place to another, esp. aimlessly or idly
+
+---
+
+Q: pinchbeck
+A: sham or counterfeit; from an alloy of copper and zinc used to mint gold
+
+---
+
+Q: sumptuous
+A: lavish in expenditure; extravagant
+
+---
