@@ -101,48 +101,85 @@ A: issue (the act of making and giving a certificate, etc., at an institution)
 
 ---
 
-Q: 해외여행
-A:
+Q: (명사) 해외여행
+A: overseas travel; trip abroad
 
 ---
 
-Q: 일정
-A:
+Q: (명사) 일정
+
+예문: 일정 시간.
+A: being fixed; being regular
 
 ---
 
-Q: 일행
-A:
+Q: (명사) 일정
+
+예문: 여행 일정.
+A: program; schedule
 
 ---
 
-Q: 전통
-A:
+Q: (명사) 일행
+A: party; company; companion
 
 ---
 
-Q: 체험
-A:
+Q: (명사) 전통
+A: tradition; heritage
 
 ---
 
-Q: 제안하다
-A:
+Q: (명사/관형사) 전통적
+A: (being) traditional
 
 ---
 
-Q: 출국하다
-A:
+Q: (명사) 체험
+A: experience
 
 ---
 
-Q: 싸다 2
-A:
+Q: (동사) 제안하다
+A: to suggest
 
 ---
 
-Q: 유학생
-A:
+Q: (동사) 출국하다
+A: to depart / leave a country
+
+---
+
+Q: (동사) 싸다
+
+예문: 선물을 싸다. 사람을 싸다. 가방을 싸다.
+A: to wrap, surround, pack
+
+---
+
+Q: (동사) 싸다
+
+예문: 똥을 싸다
+A: to discharge (defecate or urinate)
+
+---
+
+Q: (형용사) 싸다
+
+예문: 싼 가격.
+A: cheap
+
+---
+
+Q: (형용사) 싸다
+
+예문: 벌을 받아도 싸다.
+A: deserving (worthy of being in a bad situation as what one did does not warrant any sympahty or pity)
+
+---
+
+Q: (명사) 유학생
+A: international student; student studying abroad
 
 ---
 
