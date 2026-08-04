@@ -18,11 +18,6 @@ A: to be overwhelmed; to be overpowered
 
 ---
 
-Q: 낭만일세 TODO: move this to phrases/sentence mining
-A: 
-
----
-
 Q: (명사) 외식
 A: eating out; meal in a restaurant
 
@@ -183,243 +178,417 @@ A: international student; student studying abroad
 
 ---
 
-Q: 등록증
-A:
+Q: (명사) 등록증
+A: registration certificate
 
 ---
 
-Q: 방법
-A:
+Q: (명사) 방법
+A: a method or way of doing something
 
 ---
 
-Q: 지원
-A:
+Q: (명사) 지원
+
+예문: 자금 지원.
+A: support; aid
 
 ---
 
-Q: 센터
-A:
+Q: (명사) 지원
+
+예문: 입사 지원.
+A: application
 
 ---
 
-Q: 자기
-A:
+Q: (명사) 센터
+A: center
 
 ---
 
-Q: 따라오다
-A:
+Q: (대명사) 자기
+
+예문: 자기, 왜 이렇게 늦게 왔어?
+A: honey; darling; sweetheart
 
 ---
 
-Q: 작성하다
-A:
+Q: (명사) 자기
+
+예문: 자기 중심적.
+A: oneself; himself; herself; ego
 
 ---
 
-Q: 대하다
-A:
+Q: (명사) 자기
+
+예문: 자기 그릇.
+A: porcelain; china
 
 ---
 
-Q: 감동하다
-A:
+Q: (동사) 따라오다
+A: to follow; to equal/match; to imitate/follow
 
 ---
 
-Q: 공연
-A:
+Q: (동사) 작성하다
+
+예문: 계획서를 작성하다.
+A: to write; to fill in; to draw up
 
 ---
 
-Q: 용돈
-A:
+Q: (동사) 작성하다
+
+예문: 수영에서 기록을 작성하다.
+A: to set a record (i.e. in a sports game, etc)
 
 ---
 
-Q: 예매하다
-A:
+Q: (동사) 대하다
+
+예문: 벽을 대하다.
+A: to face/confront
 
 ---
 
-Q: 마침
-A:
+Q: (동사) 대하다
+
+예문: 가족으로 대하다.
+A: to handle; to deal with
 
 ---
 
-Q: 관객
-A:
+Q: (동사) 대하다
+
+예문: 그림을 대하다.
+A: to enjoy; to appreciate
 
 ---
 
-Q: 떠들다
-A:
+Q: (동사) 감동하다
+A: to be moved; to be touched
 
 ---
 
-Q: 집중하다
-A:
+Q: (명사) 공연
+A: performance; show
 
 ---
 
-Q: 제대로
-A:
+Q: (명사) 용돈
+A: pocket money; allowance
 
 ---
 
-Q: 감상하다
-A:
+Q: (동사) 예매하다
+A: to buy a passenger ticket, admission ticket, etc., in advance
 
 ---
 
-Q: 아쉽다
-A:
+Q: (부사) 마침
+A: opportunely; just at the time
 
 ---
 
-Q: 결정하다
-A:
+Q: (명사) 관객
+A: audience; concertgoer; theatergoer; moviegoer
 
 ---
 
-Q: 의견
-A:
+Q: (동사) 떠들다
+
+예문: 떠드는 사람. 이야기를 떠들다.
+A: clamor; make a noise; speak loudly
 
 ---
 
-Q: 차이
-A:
+Q: (동사) 떠들다
+
+예문: 의견을 떠들다.
+A: to insist
 
 ---
 
-Q: 모이다
-A:
+Q: (동사) 떠들다
+
+예문: 이불을 떠들다.
+A: to insist
 
 ---
 
-Q: 찬성하다
-A:
+Q: (동사) 집중하다
+A: to concentrate
 
 ---
 
-Q: 반대하다
-A:
+Q: (명사) 집중
+A: concentration
 
 ---
 
-Q: 충분히
-A:
+Q: (부사) 제대로
+
+예문: 제대로 따르다.
+A: right (proper)
 
 ---
 
-Q: 만족하다
-A:
+Q: (부사) 제대로
+
+예문: 제대로 결정하다. (마음먹은 대로)
+A: one's own way
 
 ---
 
-Q: 방향
-A:
+Q: (동사) 감상하다
+A: to appreciate
 
 ---
 
-Q: 선택하다
-A:
+Q: (명사) 감상
+
+예문: 감상의 눈물.
+A: sentimentality
 
 ---
 
-Q: 일기
-A:
+Q: (명사) 감상
+
+예문: 감상을 말하다.
+A: feelings; thoughts
 
 ---
 
-Q: 외롭다
-A:
+Q: (명사) 감상
+
+예문: 음악 감상.
+A: appreciation
 
 ---
 
-Q: 사실
-A:
+Q: (형용사) 아쉽다
+A: lacking; being a pity
 
 ---
 
-Q: 가정
-A:
+Q: (동사) 결정하다
+A: to decide; to determine
 
 ---
 
-Q: 부모
-A:
+Q: (명사) 결정
+
+예문: 어려운 결정.
+A: decision
 
 ---
 
-Q: 역할
-A:
+Q: (명사) 결정
+
+예문: 결정이 생기다.
+A: crystal
 
 ---
 
-Q: 직장
-A:
+Q: (명사) 결정
+
+예문: 노력의 결정.
+A: fruit/result (produced by effort)
 
 ---
 
-Q: 키우다
-A:
+Q: (명사) 의견
+A: opinion
 
 ---
 
-Q: 추억
-A:
+Q: (명사) 차이
+A: difference
 
 ---
 
-Q: 노력하다
-A:
+Q: (동사) 모이다
+A: to be gathered; to be collected
 
 ---
 
-Q: 기대하다
-A:
+Q: (동사) 찬성하다
+A: to agree; to consent
 
 ---
 
-Q: 좌석
-A:
+Q: (명사) 찬성
+A: agreement; consent
 
 ---
 
-Q: 앞뒤
-A:
+Q: (동사) 반대하다
+A: to oppose; to object
 
 ---
 
-Q: 공간
-A:
+Q: (명사) 반대
+A: opposite; contrary
 
 ---
 
-Q: 펴다
-A:
+Q: (부사) 충분히
+A: enough; sufficiently; fully
 
 ---
 
-Q: 창밖
-A:
+Q: (동사) 만족하다
+A: to be satisfied
 
 ---
 
-Q: 풍경
-A:
+Q: (명사) 방향
+A: direction; way
 
 ---
 
-Q: 어지럽다
-A:
+Q: (동사) 선택하다
+A: to choose; to select
 
 ---
 
-Q: 등 1
-A:
+Q: (명사) 선택
+A: choice; selection
+
+---
+
+Q: (명사) 일기
+
+예문: 일기가 나쁘다.
+A: weather
+
+---
+
+Q: (명사) 일기
+
+예문: 일기를 쓰다.
+A: diary; journal
+
+---
+
+Q: (형용사) 외롭다
+A: lonely; solitary
+
+---
+
+Q: (명사/부사) 사실
+A: fact; truth is; as a matter of fact
+
+---
+
+Q: (명사) 가정
+
+예문: 화목한 가정.
+A: home; family
+
+---
+
+Q: (명사) 가정
+
+예문: 억지 가정.
+A: assumption; supposition; proposition
+
+---
+
+Q: (명사) 부모
+A: parents
+
+---
+
+Q: (명사) 역할
+A: role; part
+
+---
+
+Q: (명사) 직장
+A: workplace
+
+---
+
+Q: (동사) 키우다
+A: to grow; to raise
+
+---
+
+Q: (명사) 추억
+A: memory
+
+---
+
+Q: (동사) 노력하다
+A: to make an effort; to endeavor; to work hard
+
+---
+
+Q: (명사) 노력
+A: effort; endeavor; hard work
+
+---
+
+Q: (동사) 기대하다
+A: to expect; to anticipate
+
+---
+
+Q: (명사) 기대
+A: expectation
+
+---
+
+Q: (명사) 좌석
+A: seat
+
+---
+
+Q: (명사) 앞뒤
+A: front and back (direction or time)
+
+---
+
+Q: (명사) 공간
+A: space; expanse
+
+---
+
+Q: (동사) 펴다
+A: to open; to spread out; to flatten; to straighten; to strech; to stand tall
+
+---
+
+Q: (명사) 창밖
+A: outside a window
+
+---
+
+Q: (명사) 풍경
+A: scenery; view
+
+---
+
+Q: (형용사) 어지럽다
+A: dizzy
+
+---
+
+Q: (명사) 등
+
+예문: 등이 가렵다.
+A: back
+
+---
+
+Q: (명사) 등
+
+예문: 등을 끄다.
+A: lamp
 
 ---
 
