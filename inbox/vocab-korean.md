@@ -1,16 +1,361 @@
-Korean dictionaries usually use the following abbreviations or labels:
-동사 — verb
-명사 — noun
-형용사 — adjective (descriptive verb)
-부사 — adverb
-대명사 — pronoun
-수사 — numeral
-관형사 — determiner
-감탄사 — interjection
-조사 — particle
-접속사 — conjunction (less common in Korean grammar than in English)
 ---
 name = "Korean Vocabulary"
+---
+
+Q: (부사) 다만
+A: but; just; merely
+
+---
+
+Q: (대명사) 여러분
+A: everyone; everybody
+
+---
+
+Q: (명사) 마음
+A: personality; mind; mood, feeling
+
+---
+
+Q: (명사) 속
+A: inside; interior
+
+---
+
+Q: (명사) 주님
+A: Lord (God or Jesus)
+
+---
+
+Q: (동사) 모시다
+A: to serve; to attend; to wait on
+
+---
+
+Q: (형용사) 거룩하다
+A: divine; sacred; great
+
+---
+
+Q: (동사) 대하다
+A: to face; to confront; to handle; to deal with
+
+---
+
+Q: (동사) 가지다
+A: to have; to hold; to own; to possess
+
+---
+
+Q: (명사) 희망
+A: hope
+
+---
+
+Q: (동사) 설명하다
+A: to explain; to account for
+
+---
+
+Q: (동사) 바라다
+A: to want; to hope; to wish; to long for
+
+---
+
+Q: (부사) 언제나
+A: always; all the time
+
+---
+
+Q: (동사) 답변하다
+A: to reply; to answer
+
+---
+
+Q: (명사) 준비
+A: preparation
+
+---
+
+Q: (동사) 준비하다
+A: to prepare
+
+---
+
+Q: (동사) 두다
+A: to put; to place; to leave
+
+---
+
+Q: (명사) 태초
+A: beginning of the world; genesis
+
+---
+
+Q: (명사) 말씀
+A: word/words
+
+---
+
+Q: (동사) 계시다
+A: to live; to be (honorific)
+
+---
+
+Q: (명사) 하나님
+A: God
+
+---
+
+Q: (부사) 함께
+A: together; along with; coupled with
+
+---
+
+Q: (관형사) 모든
+A: every
+
+---
+
+Q: (동사) 말미암다
+A: to come from; to be caused by
+
+---
+
+Q: (동사) 창조되다
+A: to be created; to be invented
+
+---
+
+Q: (명사) 생명
+A: life
+
+---
+
+Q: (동사) 얻다
+A: to get; to receive; to secure; to gain
+
+---
+
+Q: (명사) 빛
+A: shine; light; color; complexion
+
+---
+
+Q: (동사) 비치다
+A: to shine; to be reflected; to be mirrored
+
+---
+
+Q: (명사) 어둠
+A: darkness
+
+---
+
+Q: (동사) 이기다
+
+예문: 친구에게 이기다.
+A: to win; to defeat; to overcome;
+
+---
+
+Q: (동사) 이기다
+
+예문: 고기를 이기다.
+A: to knead; to mince
+
+---
+
+Q: (부사) 오래
+A: for a long time
+
+---
+
+Q: (명사) 참고
+A: reference (i.e. a source of helpful information)
+
+---
+
+Q: (동사) 참다
+A: to be patient; to endure; to withstand
+
+---
+
+Q: (형용사) 친절하다
+A: kind; hospitable
+
+---
+
+Q: (명사) 친절
+A: kindness; hospitality
+
+---
+
+Q: (동사) 시기하다
+A: to envy; to be jealous
+
+---
+
+Q: (명사) 시기
+
+예문: 시기가 나쁘다.
+A: opportunity; chance; time
+
+---
+
+Q: (명사) 시기
+
+예문: 시기를 하다.
+A: envy; jealousy
+
+---
+
+Q: (동사) 뽐내다
+A: to be haughty; to be proud; to be pompous
+
+---
+
+Q: (형용사) 교만하다
+A: to be haughty; to be arrogant; to be proud
+
+---
+
+Q: (명사) 교만
+A: arrogance; vanity
+
+---
+
+Q: (형용사) 무례하다
+A: rude; impolite; insolent
+
+---
+
+Q: (명사) 무례
+A: rudeness; disrespect
+
+---
+
+Q: (명사) 이익
+A: benefit; profit; interest
+
+---
+
+Q: (동사) 구하다
+
+예문: 자기의 이익을 구하지 않습니다.
+A: to look for; to seek; to find
+
+---
+
+Q: (동사) 구하다
+
+예문: 나라를 구하다.
+A: to save; to help; to aid
+
+---
+
+Q: (명사) 불의
+A: injustice; unrighteousness
+
+---
+
+Q: (동사) 기뻐하다
+A: to be glad; to be happy; to rejoice
+
+---
+
+Q: (명사) 진리
+A: truth
+
+---
+
+Q: (동사) 덮다
+A: to cover; to hide; to conceal
+
+---
+
+Q: (동사) 믿다
+A: to believe; to trust
+
+---
+
+Q: (동사) 바라다
+A: to want; to hope; to wish; to long for
+
+---
+
+Q: (동사) 견디다
+A: to bear; to stand; to endure
+
+---
+
+Q: (동사) 없어지지
+A: to be gone; to disappear; to be lost; to be missing
+
+---
+
+Q: (동사) 예언하다
+A: to predict; to forecast; to prophesy
+
+---
+
+Q: (명사) 예언
+A: prediction; forecast; prophecy
+
+---
+
+Q: (동사) 사라지다
+A: to disappear; to vanish; to go out of sight; to pass away
+
+---
+
+Q: (명사) 방언
+A: regional dialect; vernacular; tongues
+
+---
+
+Q: (동사) 그치다
+A: to stop; to cease
+
+---
+
+Q: (명사) 지식
+A: knowledge
+
+---
+
+Q: (관형사) 부분적
+A: partial
+
+---
+
+Q: (부사) 그러나
+A: but; however
+
+---
+
+Q: (형용사) 온전하다
+A: sound; whole; perfect; absolute
+
+---
+
+Q: (명사) 때
+
+예문: 어느 때.
+A: time
+
+---
+
+Q: (명사) 때
+
+예문: 얼굴의 때.
+A: dirt; taint; defilement
+
+---
+
+Q: (동사) 때다
+A: to burn
+
 ---
 
 Q: (동사) 압도당하다
@@ -1518,11 +1863,6 @@ A:
 ---
 
 Q: 뚜껑
-A:
-
----
-
-Q: 덮다
 A:
 
 ---

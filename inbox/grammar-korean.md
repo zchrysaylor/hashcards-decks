@@ -396,3 +396,5 @@ Q: V-지 마세요
 A: Polite negative command; “Don’t do…”
 
 ---
+
+-아/어 두다
