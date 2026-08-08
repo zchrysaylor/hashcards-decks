@@ -358,6 +358,144 @@ A: to burn
 
 ---
 
+Q: (동사) 깨어나다
+A: to wake up; to sober up
+
+---
+
+Q: (명사) 구원
+A: rescue; relief
+
+---
+
+Q: (동사) 구원하다
+A: to rescue; to save
+
+---
+
+Q: (형용사) 깊다
+A: deep (distance); deep (thought); profound
+
+---
+
+Q: (명사) 낮
+A: day; daytime
+
+---
+
+Q: (동사) 가까워지다
+A: to approach; to draw near; to become closer
+
+---
+
+Q: (부사) 그러므로
+A: therefore; so; hence
+
+---
+
+Q: (명사) 행실
+A: behavior; conduct; deed
+
+---
+
+Q: (명사) 갑옷
+A: armor
+
+---
+
+Q: (동사) 행동하다
+A: to act; to behave
+
+---
+
+Q: (동사) 단정하다
+
+예문: 단정하기 어렵다.
+A: to conclude; to decide
+
+---
+
+Q: (동사) 단정하다
+
+예문: 단정한 옷차림.
+A: to be neat; to be tidy
+
+---
+
+Q: (동사) 행하다
+A: to do; to conduct; to perform; to act
+
+---
+
+Q: (형용사) 화사하다
+A: bright; radiant; gaily
+
+---
+
+Q: (명사) 연회
+A: banquet; party
+
+---
+
+Q: (명사) 술취함
+A: drunkenness
+
+---
+
+Q: (명사) 음행
+A: lewd conduct
+
+---
+
+Q: (명사) 방탕
+A: dissipation; debauchery
+
+---
+
+Q: (동사) 싸우다
+A: to fight; to quarrel; to dispute
+
+---
+
+Q: (명사) 싸움
+A: fight; struggle; contest
+
+---
+
+Q: (동사) 빠지다
+A: to fall out/into; to slip out; to sink down into
+
+---
+
+Q: (명사) 정욕
+A: lust
+
+---
+
+Q: (동사) 채우다
+
+예문: 방문을 채우다.
+A: to lock; to button; to close/fasten/tighten
+
+---
+
+Q: (동사) 채우다
+
+예문: 정욕을 채우다.
+A: to fill; to reach; to satisfy; to meet
+
+---
+
+Q: (명사) 육신
+A: body; flesh
+
+---
+
+Q: (동사) 꾀하다
+A: to plot; to scheme
+
+---
+
 Q: (동사) 압도당하다
 A: to be overwhelmed; to be overpowered
 
